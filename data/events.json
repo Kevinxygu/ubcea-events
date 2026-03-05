@@ -1,0 +1,43 @@
+{
+  "conference": {
+    "name": "Gaming Expo Schedule Page!",
+    "subtitle": "Hello and welcome to the event YAY"
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Title Goes Here",
+      "description": "You can write a description here as well to explain what's going on",
+      "startTime": "8:00 AM",
+      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+    },
+    {
+      "id": 2,
+      "title": "Title Goes Here",
+      "description": "You can write a description here as well to explain what's going on",
+      "startTime": "9:00 AM",
+      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+    },
+    {
+      "id": 3,
+      "title": "Title Goes Here",
+      "description": "You can write a description here as well to explain what's going on",
+      "startTime": "9:30 AM",
+      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+    },
+    {
+      "id": 4,
+      "title": "Title Goes Here",
+      "description": "You can write a description here as well to explain what's going on",
+      "startTime": "12:30 PM",
+      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+    },
+    {
+      "id": 5,
+      "title": "Title Goes Here",
+      "description": "You can write a description here as well to explain what's going on",
+      "startTime": "1:30 PM",
+      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+    }
+  ]
+}
