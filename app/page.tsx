@@ -35,9 +35,9 @@ export default function SchedulePage() {
   )
 
   return (
-    <main className="min-h-screen bg-gray-950">
+    <main className="min-h-screen bg-[#111827]">
       {/* Header */}
-      <header className="border-b border-gray-800 bg-gray-950/80 backdrop-blur-sm sticky top-0 z-10">
+      <header className="border-b border-gray-800 bg-[#111827] backdrop-blur-sm sticky top-0 z-10">
         <div className="max-w-3xl mx-auto px-6 py-5">
           <h1 className="text-xl font-semibold tracking-tight text-white">
             {name}
