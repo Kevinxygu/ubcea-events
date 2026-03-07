@@ -1,43 +1,58 @@
 {
   "conference": {
-    "name": "Gaming Expo Schedule Page!",
-    "subtitle": "Hello and welcome to the event YAY"
+    "name": "UBC Gaming Expo 2026 Pokémon Schedule",
+    "subtitle": "Welcome to our page for all things Pokémon!"
   },
   "events": [
     {
       "id": 1,
-      "title": "Title Goes Here",
-      "description": "You can write a description here as well to explain what's going on",
-      "startTime": "8:00 AM",
-      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+      "title": "Pokémon Standard Tournament",
+      "description": "Pokémon trading card players will play in Best of One matches using their Standard-legal decks and the winner will receive an Ascended Heroes ETB.",
+      "startTime": "11:00 AM",
+      "notes": "Register here!",
+      "registrationLink": "https://forms.gle/Fc2aCgoUiiDWVYTQ9"
     },
     {
       "id": 2,
-      "title": "Title Goes Here",
-      "description": "You can write a description here as well to explain what's going on",
-      "startTime": "9:00 AM",
-      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+      "title": "\"What's that Card?\" Kahoot with Eric",
+      "description": "Test your card recognition skills in this Kahoot featuring competitive-oriented cards! The winner will receive a pack, all participants will get a raffle entry and top 3 will be awarded an extra entry.",
+      "startTime": "3:00 PM",
+      "notes": "No registration needed, Personal device required."
     },
     {
       "id": 3,
-      "title": "Title Goes Here",
-      "description": "You can write a description here as well to explain what's going on",
-      "startTime": "9:30 AM",
-      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+      "title": "Pokémon Imitation contest with Mimi",
+      "description": "Show off your best Pokémon impression in the Pokémon imitation contest! Step up and perform your best Pokémon cry, voice, or mannerism for the audience. Audience members will choose their favourite performances and the contestant with the most votes will be crowned the winner and receive a pack of Destined Rivals! All participants will get a raffle entry",
+      "startTime": "4:00 PM",
+      "notes": "Register at the front desk inside the Pokémon room!"
     },
     {
       "id": 4,
-      "title": "Title Goes Here",
-      "description": "You can write a description here as well to explain what's going on",
-      "startTime": "12:30 PM",
-      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+      "title": "General Trivia Kahoot with Eric",
+      "description": "Find out how much your knowledge of the Pokémon franchise stacks up against others in this general trivia Kahoot! Personal device required. The winner will receive a pack, all participants will get a raffle entry and top 3 will be awarded an extra entry.",
+      "startTime": "5:00 PM",
+      "notes": "No registration needed, Personal device required."
     },
     {
       "id": 5,
-      "title": "Title Goes Here",
-      "description": "You can write a description here as well to explain what's going on",
-      "startTime": "1:30 PM",
-      "notes": "I also have notes here so that you can add anything else you want (like registration, anything they need to bring, etc.)"
+      "title": "Free Play Tables: Retro TCG Decks with Ryan",
+      "description": "Try popular Pokemon TCG formats of the past with our retro gauntlets! We have decks from two popular retro formats, 2017 NAIC (PRC-GRI) and 2018 LAIC (SUM-LOT). Additional raffle entry rewarded for participation.",
+      "startTime": "3:00 PM",
+      "notes": "Open from 3:00 PM to 6:00 PM"
+    },
+    {
+      "id": 6,
+      "title": "Free Play Tables: Learn to Play Pokécatch with Eric Jaiden and Hayden",
+      "description": "Don't know how to play the TCG? 🙁 Come join us and try out exciting and easy to learn alternate format—same cards, different rules! 🤩  All participants will receive raffle entries 🎟️ to the Destined Rivals Packs giveaways!",
+      "startTime": "3:00 PM",
+      "notes": "Open from 3:00 PM to 6:00 PM"
+    },
+    {
+      "id": 7,
+      "title": "Free Play Tables: Play Pokémon Cube with Jennifer and Ryan",
+      "description": "Draft, build, and battle with your own deck from scratch in the cube format! Cards will be provided. Additional raffle entry rewarded for participation.",
+      "startTime": "3:00 PM",
+      "notes": "Open from 3:00 PM to 6:00 PM"
     }
   ]
 }

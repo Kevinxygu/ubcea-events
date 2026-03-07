@@ -7,6 +7,7 @@ type Event = {
   startTime: string
   day?: string
   notes?: string | null
+  registrationLink?: string | null
 }
 
 function parseTime(timeStr: string): number {
@@ -76,7 +77,18 @@ export default function SchedulePage() {
                     </p>
                     {event.notes && (
                       <p className="text-sm text-gray-500 italic mt-2">
-                        — {event.notes}
+                        — {event.registrationLink ? (
+                          <a
+                            href={event.registrationLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-indigo-400 hover:text-indigo-300 underline"
+                          >
+                            {event.notes}
+                          </a>
+                        ) : (
+                          event.notes
+                        )}
                       </p>
                     )}
                   </article>
